@@ -1,4 +1,4 @@
-# web-clone-using-html-and-css
+# web-clone of  amazon-using-html-and-css
 This is my first GitHub repository.
 <br>
 Author:Saurav Kunwar
